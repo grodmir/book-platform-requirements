@@ -11,7 +11,6 @@
 - Стабильность: High
 
 **Связанные требования:**
-- [US-03](../02-user-requirements/US-03.md) — Загрузка произведения
-- [FR-CONT-02](../03-functional-requirements/FR-CONT-02.md) — Проверка обязательных полей метаданных
+- [US-03a](../02-user-requirements/US-03a.md) — Загрузка файла произведения
 - [NFR-PERF-01](../04-non-functional-requirements/NFR-PERF-01.md) — Время загрузки файла
-- [NFR-SUP-01](../04-non-functional-requirements/NFR-SUP-01.md) — Поддержка браузеров и форматов
+- [NFR-SUP-01b](../04-non-functional-requirements/NFR-SUP-01b.md) — Поддержка форматов

@@ -11,5 +11,4 @@
 - Стабильность: High
 
 **Связанные требования:**
-- [US-10](../02-user-requirements/US-10.md) — Покупка книги
-- [FR-PAY-01](../03-functional-requirements/FR-PAY-01.md) — Проведение платежа через внешний шлюз
+- [US-10a](../02-user-requirements/US-10a.md) — Инициирование покупки книги
